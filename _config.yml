@@ -5,10 +5,10 @@
 # Site
 title: Hexo
 subtitle: ''
-description: ''
+description: 'Мини-сайт'
 keywords:
-author: John Doe
-language: en
+author: Mini
+language: ru
 timezone: ''
 
 # URL
@@ -120,7 +120,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: theme-next-docs
+theme: next
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
