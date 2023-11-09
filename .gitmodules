@@ -1,5 +1,6 @@
 
 
+
 [submodule "themes/freemind"]
 	path = themes/freemind
 	url = https://github.com/dvesti/mini
@@ -8,8 +9,6 @@
 
 [submodule "theme-next-docs"] 
   path = theme-next-docs
-
-
-
   url = https://github.com/dvesti/mini/theme-next-docs
+
 
