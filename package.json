@@ -28,6 +28,7 @@
     "hexo-theme-landscape": "^1.0.0",
     "hexo-theme-next": "^8.18.2",
     "hexo-wordcount": "^6.0.1",
-    "prismjs": "^1.29.0"
+    "prismjs": "^1.29.0",
+    "punycode": "^2.3.1"
   }
 }
