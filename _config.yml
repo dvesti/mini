@@ -130,7 +130,7 @@ theme: freemind
 deploy:
   type: git
   repo: https://github.com/dvesti/mini # https://bitbucket.org/JohnSmith/johnsmith.bitbucket.io
-  branch: gh-pages
+  branch: main
   message: [Site updated: {{ now('YYYY-MM-DD HH:mm:ss') }}]  
 
 menu:
