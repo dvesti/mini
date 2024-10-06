@@ -7,5 +7,5 @@
 
 [submodule "theme-next-docs"] 
     path = theme-next-docs
-    url = https://github.com/dvesti/mini/theme-next-docs
+    url = https://github.com/next-theme/theme-next-docs
 
