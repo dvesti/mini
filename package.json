@@ -12,6 +12,8 @@
     "version": "7.3.0"
   },
   "dependencies": {
+    "chokidar": "^3.5.3",
+    "cjs": "^0.0.11",
     "hexo": "^7.3.0",
     "hexo-deployer-git": "^4.0.0",
     "hexo-filter-github-emojis": "^3.0.5",
@@ -21,20 +23,24 @@
     "hexo-generator-index": "^3.0.0",
     "hexo-generator-search": "^2.4.3",
     "hexo-generator-tag": "^2.0.0",
-    "hexo-prism-plugin": "^2.3.0",
     "hexo-recommended-posts": "^1.2.0",
     "hexo-renderer-ejs": "^2.0.0",
-    "hexo-renderer-marked": "^6.0.0",
+    "hexo-renderer-marked": "^6.1.1",
     "hexo-renderer-stylus": "^3.0.0",
     "hexo-server": "^3.0.0",
     "hexo-tag-bootstrap": "^0.2.2",
     "hexo-theme-landscape": "^1.0.0",
-    "hexo-theme-next": "^8.18.2",
     "hexo-wordcount": "^6.0.1",
+
     "prismjs": "^1.29.0",
     "punycode": "^2.3.1"
 
   },
   "packageManager": "yarn@4.5.0"
+}
+
+
+    "nunjucks": "^3.2.4"
+  }
 }
 
