@@ -33,7 +33,7 @@
     "hexo-wordcount": "^6.0.1",
     "prismjs": "^1.29.0",
     "punycode": "^2.3.1"
-},
-  "packageManager": "yarn@4.5.0",
-  "nunjucks": "^3.2.4"
+  },
+  "packageManager": {"yarn@4.5.0",
+    "nunjucks": "^3.2.4"
 }
