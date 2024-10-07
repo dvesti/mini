@@ -1,13 +1,3 @@
 [submodule "themes/freemind"]
 	path = themes/freemind
-	url = https://github.com/dvesti/mini
-
-
-[submodule "393457ce730f2f4cb0465da82d0fa032162dabbe themes/freemind"]
-	path = 393457ce730f2f4cb0465da82d0fa032162dabbe themes/freemind
-	url = https://github.com/dvesti/mini.git
-
-
-[submodule "3fd630dd684d740e75b379c9299a18914f661cd8 theme-next-docs"]
-	path = 3fd630dd684d740e75b379c9299a18914f661cd8 theme-next-docs
-	url = https://github.com/dvesti/mini.git
+    url = https://github.com/wzpan/hexo-theme-freemind
