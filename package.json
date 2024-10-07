@@ -31,6 +31,8 @@
     "hexo-tag-bootstrap": "^0.2.2",
     "hexo-theme-landscape": "^1.0.0",
     "hexo-wordcount": "^6.0.1",
-    "nunjucks": "^3.2.4"
+    "nunjucks": "^3.2.4",
+	"prismjs": "^1.29.0",
+    "punycode": "^2.3.1"
   }
 }
