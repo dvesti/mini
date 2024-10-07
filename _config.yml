@@ -13,7 +13,9 @@ timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://dvesti.github.io/mini
+
+url: https://github.com/dvesti/mini
+
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -122,10 +124,17 @@ ignore:
 ## Themes: https://hexo.io/themes/
 theme: freemind
 
+
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
+#deploy:
+ # type: ''
+
 deploy:
-  type: ''
+  type: git
+  repo: https://github.com/dvesti/mini # https://bitbucket.org/JohnSmith/johnsmith.bitbucket.io
+  branch: main
+  message: [Site updated: {{ now('YYYY-MM-DD HH:mm:ss') }}]  
 
 menu:
   Index:
